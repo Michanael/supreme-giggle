@@ -1,0 +1,3 @@
+Here starts the story of an old man who wants to learn code.
+He downloads ATOM as it appears to be a great choice for working with text files.
+Now we must save the file and check the git status.
