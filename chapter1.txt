@@ -1,3 +1,11 @@
 Here starts the story of an old man who wants to learn code.
 He downloads ATOM as it appears to be a great choice for working with text files.
 Now we must save the file and check the git status.
+Things to remember:
+  - touch chapter1.txt
+  --> creates a file ...in ATOM
+  - git status
+  --> tells Git to show everything that is going on with repository.
+  - git commit -m "message"
+  --> commit commits changes & -m allows to add a message, a message that describes changes that have been made at the time of commit. the message has to be descriptive with detail and information as to allow anyone working on project or future self to have an idea of what has been changed.
+  
